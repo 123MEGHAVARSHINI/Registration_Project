@@ -1,0 +1,41 @@
+body
+{
+    background:rgb(225, 52, 170);
+}
+#headings
+{
+    width:600px;
+    height:75px;
+    background:rgb(76, 202, 84);
+    margin: auto;
+    text-align:center;
+    color: rgb(49, 10, 165);
+    padding-top: 20px;
+    border-top-right-radius:75% ;
+    border-bottom-left-radius: 70%;
+    border: 3px solid red;
+    border-color:6px red 6px black 6px  orange 6px  green;
+    text-shadow: 5px whitesmoke;
+}
+form
+{
+background: rgb(106, 164, 197);
+height:350ox;
+width:550px;
+margin:auto;
+margin-top: 50px; 
+text-align: center;
+}
+
+#mbody{
+    background: rgb(143, 102, 51);
+}
+
+#sh1{
+    background-color: whitesmoke;
+    height:400;
+    width:250;
+    text-shadow: 5px 5px 3px rgb(192, 237, 86);
+    text-align: center;
+    margin-top: 325px;
+}
